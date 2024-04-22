@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LXHyda93HR135qxhHKGsfrAJsuIJ18sp7bjApzePzy/G0qdXT0aOH3V4hh1R6ciF7m0NR6KWRatns+wuSmE/FQ==",
+  "dgSpecHash": "xUGwga8vq4LbNnDYQwAjMDAvIKu93tT69Z02X3N1VsBQb6+kc8A99T5JG/lBzmIAkPnJiHsPBxqUfLkmeBId8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joao.Santana\\source\\repos\\ORM-SQL\\ORM-SQL\\ORM-SQL.csproj",
+  "projectFilePath": "C:\\Users\\Joao.Santana\\source\\repos\\psg-tads-2024-1-back-bd-NeguinKaxeta\\codigo\\ORM-SQL\\ORM-SQL\\ORM_SQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joao.Santana\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Joao.Santana\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

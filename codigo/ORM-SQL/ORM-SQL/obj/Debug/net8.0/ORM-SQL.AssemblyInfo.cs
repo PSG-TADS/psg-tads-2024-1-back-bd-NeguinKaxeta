@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ORM-SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efb411f39f5cf00fa19a403c8c2593f7007815b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e25adcbd5bbaa28bfd7fb2bc523078f1d2190f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ORM-SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ORM-SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

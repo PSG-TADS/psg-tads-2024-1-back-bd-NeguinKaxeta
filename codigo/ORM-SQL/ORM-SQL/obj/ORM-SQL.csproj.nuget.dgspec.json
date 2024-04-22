@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joao.Santana\\source\\repos\\ORM-SQL\\ORM-SQL\\ORM-SQL.csproj": {}
+    "C:\\Users\\Joao.Santana\\Source\\Repos\\psg-tads-2024-1-back-bd-NeguinKaxeta\\codigo\\ORM-SQL\\ORM-SQL\\ORM-SQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joao.Santana\\source\\repos\\ORM-SQL\\ORM-SQL\\ORM-SQL.csproj": {
+    "C:\\Users\\Joao.Santana\\Source\\Repos\\psg-tads-2024-1-back-bd-NeguinKaxeta\\codigo\\ORM-SQL\\ORM-SQL\\ORM-SQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joao.Santana\\source\\repos\\ORM-SQL\\ORM-SQL\\ORM-SQL.csproj",
+        "projectUniqueName": "C:\\Users\\Joao.Santana\\Source\\Repos\\psg-tads-2024-1-back-bd-NeguinKaxeta\\codigo\\ORM-SQL\\ORM-SQL\\ORM-SQL.csproj",
         "projectName": "ORM-SQL",
-        "projectPath": "C:\\Users\\Joao.Santana\\source\\repos\\ORM-SQL\\ORM-SQL\\ORM-SQL.csproj",
+        "projectPath": "C:\\Users\\Joao.Santana\\Source\\Repos\\psg-tads-2024-1-back-bd-NeguinKaxeta\\codigo\\ORM-SQL\\ORM-SQL\\ORM-SQL.csproj",
         "packagesPath": "C:\\Users\\Joao.Santana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joao.Santana\\source\\repos\\ORM-SQL\\ORM-SQL\\obj\\",
+        "outputPath": "C:\\Users\\Joao.Santana\\Source\\Repos\\psg-tads-2024-1-back-bd-NeguinKaxeta\\codigo\\ORM-SQL\\ORM-SQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joao.Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",

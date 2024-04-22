@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using static ORM_SQL.Program;
 
 namespace ORM_SQL
 {
@@ -51,7 +50,7 @@ namespace ORM_SQL
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
                 // Configure a conexão com o banco de dados aqui
-                optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS01;Database=ORM;Trusted_Connection=True;TrustServerCertificate=true");
+                optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS01;Database=Trabalho;Trusted_Connection=True;TrustServerCertificate=true");
             }
         }
 
